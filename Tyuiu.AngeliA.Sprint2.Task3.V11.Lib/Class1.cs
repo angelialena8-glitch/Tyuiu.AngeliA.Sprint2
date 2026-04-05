@@ -1,6 +1,7 @@
-﻿namespace Tyuiu.AngeliA.Sprint2.Task3.V11.Lib
+﻿using tyuiu.cources.programming.interfaces.Sprint2;
+namespace Tyuiu.AngeliA.Sprint2.Task3.V11.Lib
 {
-    public class Class1 
+    public class Class1 : ISprint2Task3V11
     {
         public double Calculate(double x)
         {
